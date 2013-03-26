@@ -1,0 +1,1 @@
+This is a readme that I have been advised is a good idea for a GIT. Boy I really adore sort of feeling around in the dark as to how and why GIT works - Really great docs. Will have to Google more creafully for more infor
